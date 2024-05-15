@@ -1,0 +1,7 @@
+C:\Users\alire\source\repos\salaryApp\salaryApp\bin\Debug\salaryApp.exe.config
+C:\Users\alire\source\repos\salaryApp\salaryApp\bin\Debug\salaryApp.exe
+C:\Users\alire\source\repos\salaryApp\salaryApp\bin\Debug\salaryApp.pdb
+C:\Users\alire\source\repos\salaryApp\salaryApp\obj\Debug\salaryApp.csproj.AssemblyReference.cache
+C:\Users\alire\source\repos\salaryApp\salaryApp\obj\Debug\salaryApp.csproj.CoreCompileInputs.cache
+C:\Users\alire\source\repos\salaryApp\salaryApp\obj\Debug\salaryApp.exe
+C:\Users\alire\source\repos\salaryApp\salaryApp\obj\Debug\salaryApp.pdb
